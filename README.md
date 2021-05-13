@@ -14,6 +14,5 @@
 
 
 Made in Rocketseat Ignite ReactJs
-Done by Gil Vilares
-
+Done by Ítalo Torres
 ---
