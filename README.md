@@ -13,6 +13,5 @@
 ---
 
 
-Made in Rocketseat Ignite ReactJs
-Done by Ítalo Torres
+Made in Rocketseat Ignite ReactJs | Done by Ítalo Torres
 ---
